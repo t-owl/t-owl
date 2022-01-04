@@ -13,7 +13,7 @@
 
 ### About me 
 
-- 🎓  Graduate Computer Scientist from UoL.
+- 🎓 Graduate Computer Science and Software Engineering from UoL.
 - 🎓 Post Graduate on Big Data & High Performance Computing with Distinctions from UoL.
 - 💭  Let's get to know each other.
 
