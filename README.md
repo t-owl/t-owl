@@ -7,7 +7,7 @@
 
 
 <div align="center">
-<h3> 🧗 Camilo | 💻 Software Engineer </h3> 
+<h3> 🧗 Camilo Pinzon | 💻 Software Engineer </h3> 
 </div>
 
 
