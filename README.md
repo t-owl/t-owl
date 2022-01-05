@@ -23,7 +23,7 @@
 
 <img src="https://img.shields.io/badge/Git-f05033?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/Linux-ffbb01?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/Pandas-0b0153?style=for-the-badge&logo=pandas&logoColor=white"><img src="https://img.shields.io/badge/TensorFlow-ff8200?style=for-the-badge&logo=TensorFlow&logoColor=white"><img src="https://img.shields.io/badge/numpy-4d77cf?style=for-the-badge&logo=numpy&logoColor=white"><img src="https://img.shields.io/badge/scikit_learn-f89a36?style=for-the-badge&logo=scikit-learn&logoColor=white"><img src="https://img.shields.io/badge/pytorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/Open_MP-006363?style=for-the-badge&logo=OpenMP&logoColor=white"><img src="https://img.shields.io/badge/Open_MP-006363?style=for-the-badge&logo=OpenMP&logoColor=white">
+<img src="https://img.shields.io/badge/Open_MP-006363?style=for-the-badge&logo=OpenMP&logoColor=white"><img src="https://img.shields.io/badge/MPI-0056a8?style=for-the-badge&logo=MPI&logoColor=white">
 
 
 <div align="center">
